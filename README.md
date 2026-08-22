@@ -12,7 +12,7 @@
 <br><br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=8mno&theme=onedark&no-frame=true&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=8mno&theme=onedark&no-frame=true&margin-w=8" alt="trophies" />
 </a>
 
 </div>
@@ -65,12 +65,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=8mno&show_icons=true&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&icon_color=7fa8a3&text_color=e8e6e1" alt="stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=8mno&show_icons=true&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&icon_color=7fa8a3&text_color=e8e6e1" alt="stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=8mno&theme=onedark&hide_border=true&background=0d0f14&ring=7fa8a3&fire=8a5a4a&currStreakLabel=7fa8a3" alt="streak" height="165"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8mno&layout=compact&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&text_color=e8e6e1" alt="top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=8mno&layout=compact&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&text_color=e8e6e1" alt="top languages" />
 
 </div>
 
@@ -119,7 +119,7 @@
   Join the Lanyard Discord server so your presence keeps updating:
   https://discord.gg/UrXF2cfJ7F
 -->
-<img src="https://lanyard.cnrad.dev/api/750801534165450793?theme=dark&bg=0d0f14&animated=true&borderRadius=12px&idleMessage=Currently%20offline&hideDiscrim=true" alt="Discord Presence" />
+<img src="https://lanyard.cnrad.dev/api/750801534165450793?theme=dark&bg=0d0f14&animated=true&animatedDecoration=true&borderRadius=12px&idleMessage=Currently%20offline&hideDiscrim=true" alt="Discord Presence" />
 
 <br><br>
 
