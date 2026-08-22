@@ -1,106 +1,160 @@
-<h1 align="center">Hi there, I'm Moon</h1>
-<h3 align="center">Builder of tools, bots, and things that just work</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=8mno&label=Profile%20views&color=8f0000&style=flat" alt="Moon" />
-  <a href="https://twitter.com/783a_" target="blank"><img src="https://img.shields.io/twitter/follow/783a_?logo=twitter&style=for-the-badge" alt="Moon" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,25:1a0033,50:330066,75:660099,100:9900cc&text=Moon&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=8mno" alt="Moon" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9900cc&center=true&vCenter=true&width=600&lines=Founder+%40+Lunar+Team;Founder+%40+Mythx;Building+Tools+%26+Automation;Node.js+%7C+Python+%7C+Discord+Bots"/>
 
----
+<br>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24" alt="about" /> About Me
+<img src="https://komarev.com/ghpvc/?username=8mno&label=Profile+Views&color=9900cc&style=for-the-badge&labelColor=0d0d0d" alt="profile views" />
+<a href="https://twitter.com/783a_"><img src="https://img.shields.io/twitter/follow/783a_?style=for-the-badge&logo=twitter&logoColor=white&color=9900cc&labelColor=0d0d0d" alt="twitter follow" /></a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Founder-Lunar%20Team-8f0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Founder of Lunar Team" />
-  <img src="https://img.shields.io/badge/Founder-Mythx-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" alt="Founder of Mythx" />
-</p>
+<br><br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Node.js%20%26%20Automation-3c873a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js and automation focus" />
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=8mno&theme=radical&no-frame=true&margin-w=8" alt="trophies" />
+</a>
 
-<p align="left">
-  <a href="https://github.com/8mno">
-    <img src="https://img.shields.io/badge/All%20Projects-github.com%2F8mno-181717?style=for-the-badge&logo=github&logoColor=white" alt="All projects" />
-  </a>
-</p>
+</div>
+
+<br>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="tools" /> Languages and Tools
+<br>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
+## 🔗 About Me
 
----
+<div align="center">
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="24" height="24" alt="stats" /> GitHub Stats
+<img src="https://img.shields.io/badge/Founder-Lunar%20Team-9900cc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Founder of Lunar Team" />
+<img src="https://img.shields.io/badge/Founder-Mythx-9900cc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Founder of Mythx" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=8mno&show_icons=true&theme=radical&hide_border=true" alt="Moon stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8mno&theme=radical&hide_border=true" alt="Moon streak" height="165"/>
-</p>
+<br><br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8mno&layout=compact&theme=radical&hide_border=true" alt="Moon top languages" />
-</p>
+<img src="https://img.shields.io/badge/Focus-Node.js%20%26%20Automation-660099?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d0d0d" alt="focus" />
+<a href="https://github.com/8mno"><img src="https://img.shields.io/badge/All%20Projects-github.com%2F8mno-660099?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="all projects" /></a>
+
+</div>
+
+<br>
+
+> Building bots, backends, and internal tooling — with **[Lunar Team](https://lunar-team.vercel.app)** and **[Mythx](https://mythxdb.vercel.app)** as my main projects.
+
+<br>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="24" height="24" alt="projects" /> Projects I Founded
+<br>
+
+## 🧠 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,mysql,git,github&theme=dark" alt="skills" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=8mno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9900cc&icon_color=9900cc&text_color=ffffff" alt="stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=8mno&theme=tokyonight&hide_border=true&background=0d0d0d&ring=9900cc&fire=9900cc&currStreakLabel=9900cc" alt="streak" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8mno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9900cc&text_color=ffffff" alt="top languages" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🚀 Projects I Founded
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="30" height="30" alt="Lunar Team" /></td>
-    <td><b><a href="https://lunar-team.vercel.app">Lunar Team</a></b></td>
-    <td>Founder — check it out for more on what we're building.</td>
+    <th>Project</th>
+    <th>Role</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="30" height="30" alt="Mythx" /></td>
-    <td><b><a href="https://mythxdb.vercel.app">Mythx</a></b></td>
-    <td>Founder — take a look at the project here.</td>
+    <td><b>Lunar Team</b></td>
+    <td>Founder</td>
+    <td><a href="https://lunar-team.vercel.app"><img src="https://img.shields.io/badge/Visit-9900cc?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="visit lunar team" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Mythx</b></td>
+    <td>Founder</td>
+    <td><a href="https://mythxdb.vercel.app"><img src="https://img.shields.io/badge/Visit-9900cc?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="visit mythx" /></a></td>
   </tr>
 </table>
 
+</div>
+
+<br>
+
 ---
 
-### <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="24" height="24" alt="discord" /> Discord Presence
+<br>
+
+## 🎮 Discord Presence
+
+<div align="center">
 
 <!--
-  This card is powered by Lanyard (https://github.com/Phineas/lanyard),
-  a service that exposes your live Discord presence as an API/widget.
-  Note: you must join the Lanyard Discord server (https://discord.gg/UrXF2cfJ7F)
-  for your presence data to be tracked.
+  Live Discord presence powered by Lanyard (https://github.com/Phineas/lanyard).
+  Join the Lanyard Discord server so your presence keeps updating:
+  https://discord.gg/UrXF2cfJ7F
 -->
-<p align="left">
-  <img src="https://lanyard-profile-readme.vercel.app/api/750801534165450793?theme=dark&bg=151515&animated=true" alt="Discord Presence" />
-</p>
+<img src="https://lanyard-profile-readme.vercel.app/api/750801534165450793?theme=dark&bg=0d0d0d&borderRadius=12px&idleMessage=Currently%20offline&hideDiscrim=true&animated=true" alt="Discord Presence" />
 
+<br><br>
+
+<a href="https://discord.com/users/750801534165450793">
+  <img src="https://img.shields.io/badge/Discord%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" alt="discord profile" />
+</a>
+
+</div>
+
+<br>
+
+> إذا ما طلعت بياناتك، تأكد إنك منضم لسيرفر Lanyard الرسمي من هنا: https://discord.gg/UrXF2cfJ7F — بدون الانضمام ما يقدر يتتبع حالتك (اللعبة أو التطبيق اللي تشغله والحالة لحظيًا).
+
+<br>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="24" height="24" alt="connect" /> Connect with Me
+<br>
 
-<p align="left">
-<a href="https://twitter.com/783a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Moon" height="30" width="40" /></a>
-<a href="https://instagram.com/8mno_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Moon" height="30" width="40" /></a>
-<a href="https://discord.com/users/750801534165450793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Moon" height="30" width="40" /></a>
-</p>
+## 🔗 Connect with Me
+
+<div align="center">
+
+<a href="https://twitter.com/783a_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d" alt="twitter" /></a>
+<a href="https://instagram.com/8mno_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="instagram" /></a>
+<a href="https://discord.com/users/750801534165450793"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" alt="discord" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d0d0d,50:330066,100:9900cc"/>
+
+**Founder of [Lunar Team](https://lunar-team.vercel.app) & [Mythx](https://mythxdb.vercel.app)**
+
+</div>
