@@ -65,12 +65,12 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=8mno&show_icons=true&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&icon_color=7fa8a3&text_color=e8e6e1" alt="stats" height="165"/>
+<img src="https://stats-8mno.vercel.app/api?username=8mno&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&icon_color=7fa8a3&text_color=e8e6e1" alt="stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=8mno&theme=onedark&hide_border=true&background=0d0f14&ring=7fa8a3&fire=8a5a4a&currStreakLabel=7fa8a3" alt="streak" height="165"/>
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=8mno&layout=compact&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&text_color=e8e6e1" alt="top languages" />
+<img src="https://stats-8mno.vercel.app/api/top-langs/?username=8mno&layout=compact&theme=onedark&hide_border=true&bg_color=0d0f14&title_color=7fa8a3&text_color=e8e6e1" alt="top languages" />
 
 </div>
 
