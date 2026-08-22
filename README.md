@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,25:1a0033,50:330066,75:660099,100:9900cc&text=Moon&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9900cc&center=true&vCenter=true&width=600&lines=Founder+%40+Lunar+Team;Founder+%40+Mythx;Building+Tools+%26+Automation;Node.js+%7C+Python+%7C+Discord+Bots"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9900cc&center=true&vCenter=true&width=600&lines=Founder+%40+Lunar+Team;Founder+%40+Mythx;Building+Tools+%26+Automation;Node.js+%7C+Python+%7C+Discord+Bots"/>
 
 <br>
 
@@ -66,7 +66,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=8mno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9900cc&icon_color=9900cc&text_color=ffffff" alt="stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8mno&theme=tokyonight&hide_border=true&background=0d0d0d&ring=9900cc&fire=9900cc&currStreakLabel=9900cc" alt="streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=8mno&theme=tokyonight&hide_border=true&background=0d0d0d&ring=9900cc&fire=9900cc&currStreakLabel=9900cc" alt="streak" height="165"/>
 
 <br>
 
@@ -128,10 +128,6 @@
 </a>
 
 </div>
-
-<br>
-
-> إذا ما طلعت بياناتك، تأكد إنك منضم لسيرفر Lanyard الرسمي من هنا: https://discord.gg/UrXF2cfJ7F — بدون الانضمام ما يقدر يتتبع حالتك (اللعبة أو التطبيق اللي تشغله والحالة لحظيًا).
 
 <br>
 
