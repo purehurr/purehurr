@@ -119,7 +119,7 @@
   Join the Lanyard Discord server so your presence keeps updating:
   https://discord.gg/UrXF2cfJ7F
 -->
-<img src="https://lanyard-profile-readme.vercel.app/api/750801534165450793?theme=dark&bg=0d0f14&borderRadius=12px&idleMessage=Currently%20offline&hideDiscrim=true&animated=true" alt="Discord Presence" />
+<img src="https://lanyard.cnrad.dev/api/750801534165450793?theme=dark&bg=0d0f14&animated=true&borderRadius=12px&idleMessage=Currently%20offline&hideDiscrim=true" alt="Discord Presence" />
 
 <br><br>
 
