@@ -94,7 +94,6 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/750801534165450793?theme=dark&bg=151515&animated=true" alt="Discord Presence" />
 </p>
 
-> إذا ما طلعت بياناتك، تأكد إنك منضم لسيرفر Lanyard الرسمي من هنا: https://discord.gg/UrXF2cfJ7F — بدون الانضمام ما يقدر يتتبع حالتك (اللعبة أو التطبيق اللي تشغله والحالة لحظيًا).
 
 ---
 
